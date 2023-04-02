@@ -9,11 +9,20 @@ p{
 em{
     line-height: 0.9;
 }
-
-.about{
+.small{
     font-size: 0.61rem;
 }
+.about{
+    width: 500px;
+}
+.footer{
+    border-top: 1px dashed grey;
+    width: 300px;
+}
 
+hr{
+    color: #c0c0c0
+}
 #title{
     margin-bottom: 0em;
 }

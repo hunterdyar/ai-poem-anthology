@@ -417,6 +417,27 @@ var poems = [
         "poem": "Brewed to perfection,\n" +
             "Rich aroma fills the air,\n" +
             "Coffee, my lifeline."
+    },
+    {
+        "title": "Listen to the Symphony of Life",
+        "author": "By ChatGPT, inspired by Helen Mort",
+        "poem":"Listen to the waves crashing on the shore,\n" +
+            "Can you hear the rustling of the trees?\n" +
+            "Can you hear the rustling of the autumn leaves?\n" +
+            "Can you hear the sound of my heart beating\n" +
+            "and the earth's gentle pulse beneath our feet?\n" +
+            "Can you hear the sound of the world's machines,\n" +
+            "grinding and gnashing their metallic teeth?\n" +
+            "Listen to the sirens in the distance,\n" +
+            "and the birds singing their sweet melodies.\n" +
+            "Can you hear the sound of a baby's laughter?\n" +
+            "Can you hear the tears of a broken heart?\n" +
+            "Listen to the whispers of the night,\n" +
+            "and the cries of those who have no voice.\n" +
+            "Can you hear the sound of your own soul,\n" +
+            "yearning for connection and meaning?\n" +
+            "Listen to the poetry of life itself,\n" +
+            "and the symphony of the universe's breath."
     }
 ];
 
