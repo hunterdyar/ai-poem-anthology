@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Poem Anthology</title>
+    <link  rel="stylesheet" href="style.css" />
+    <script src="poems.js" ></script>
+</head>
+<body>
+<h2 id="title">ai poem</h2>
+<em id="author">by ChatGPT</em>
+<p id="poem"></p>
+
+<hr />
+<p class="about">
+    <em>A page of human-currated, LLM-Generated poetry. Don't worry, poets, your job is still safe.</em>
+</p>
+<script>
+    //random poem
+    var poem = getRandomPoem();
+    var poemtitle = document.getElementById("title");
+    var poemblock = document.getElementById("poem");
+    var poemauthor = document.getElementById("author");
+
+    poemauthor.innerText = "by " +poem.author;
+    poemblock.innerText = poem.poem;
+    poemtitle.innerText = poem.title;
+</script>
+
+</body>
+</html>

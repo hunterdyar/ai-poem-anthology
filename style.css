@@ -1,0 +1,28 @@
+p{
+    font-family: merriweather, serif;
+    margin-bottom: 1em;
+}
+@font-face {
+    font-family: merriweather;
+    src: url(Merriweather-Regular.ttf);
+}
+em{
+    line-height: 0.9;
+}
+
+.about{
+    font-size: 0.61rem;
+}
+
+#title{
+    margin-bottom: 0em;
+}
+body {
+    background-color: #FCF3DC;
+    font-family: merriweather, serif;
+    line-height: 1.45;
+    font-size: 0.91rem;
+    font-variant-numeric: oldstyle-nums;
+}
+
+
