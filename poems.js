@@ -493,6 +493,23 @@ var poems = [
             "To feel or not to feel, it's not what it seems,\n" +
             "for in Boise, we find ourselves whole and renewed,\n" +
             "in awe of the sunset's hues, of life's promise imbued."
+    },
+    {
+        "title":"untitled",
+        "poem":"We stand at the gates, the arena ahead, our heartbeats pounding like war drums of old,\n" +
+            "the crowds roar, a deafening sound that spreads across the stands, the stories to be told,\n" +
+            "\n" +
+            "the gate opens, and we step into the fray, our armor clinking like music to our ears,\n" +
+            "our weapons ready, our fears held at bay, our eyes fixed ahead, ignoring our tears,\n" +
+            "\n" +
+            "last night we prepared, the love for our kin burning in our chest like an unquenchable flame,\n" +
+            "our devotion to honor, our will to win, our loyalty to those who share our name,\n" +
+            "\n" +
+            "through the gates, we hear the roar of the crowd, a symphony of sound that fills us with might,\n" +
+            "our senses sharpened, our spirit unbowed, we step into the light, ready to fight,\n" +
+            "\n" +
+            "to feel or not to feel, it's not what it seems, for in the arena, we find ourselves renewed,\n" +
+            "in awe of the glory, of the cheers and screams, of the tales to be told, of our honor imbued."
     }
 ];
 
