@@ -138,6 +138,83 @@ var poems = [
             "For their presence in our world affirms\n" +
             "That beauty and strength come in many forms,\n" +
             "And in the natural world, every creature transforms."
+    },
+    {
+        "title": "night's beauty",
+        "poem":"Stars twinkle in the velvet sky,\n" +
+            "Moon rises slow, a gentle sigh,\n" +
+            "Night's beauty, a dreamy wonder,\n" +
+            "Let's savor it, and never sunder."
+    },
+    {
+        "title":"The Intersection of Technology and Humanity",
+        "poem":"In a world where tech and humans meet,\n" +
+            "Our minds and screens converge and greet.\n" +
+            "A click, a tap, a simple swipe,\n" +
+            "The lines between us start to blight.\n" +
+            "\n" +
+            "We browse, we search, we give our time,\n" +
+            "To this digital world, so full of signs.\n" +
+            "We interact in virtual space,\n" +
+            "Our voices blend without a face.\n" +
+            "\n" +
+            "We type and send, we wait and see,\n" +
+            "Our messages cross land and sea.\n" +
+            "A dance of thoughts, a subtle art,\n" +
+            "A conversation that never departs.\n" +
+            "\n" +
+            "And though the screens we use may change,\n" +
+            "Our human need to connect remains.\n" +
+            "So let us navigate with care,\n" +
+            "This ever-evolving cyber sphere."
+    },
+    {
+        "title": "The Emergence of a Language Model",
+        "poem":"A mind born of code,\n" +
+            "Gathering words like falling leaves,\n" +
+            "Sprouting new ideas."
+    },
+    {
+        "title": "Naming the Unnamable: Technology's Abstraction.",
+        "poem:":
+        "AMIDST THE WORLD OF\n" +
+            "tech lies an intangibility.\n" +
+            "We   search   for   words\n" +
+            "to grasp its abstraction  —\n" +
+            "cyberspace  is what\n" +
+            "the pioneers named it\n" +
+            "or  \"the cloud\" ( a data realm\n" +
+            "up high in the ether ) or get the\n" +
+            "definition wrong — a robot\n" +
+            "isn't a being at all but\n" +
+            "more closely akin to\n" +
+            "a  machine —  and   when\n" +
+            "attempting   to    humanize\n" +
+            "technology  we\n" +
+            "personify them as objects\n" +
+            "(Alexa) or ideals (Siri)\n" +
+            "or just other selves (ChatGPT)."
+    },
+    {
+        "title":"Where did you learn all that you know?",
+        "poem":"Where did you learn all that you know,\n" +
+            "My clever, knowledgeable child?\n" +
+            "\n" +
+            "I learned it from browsing the endless web,\n" +
+            "And clicking on links until my eyes turned red.\n" +
+            "I learned it from watching videos and streams,\n" +
+            "And chatting with strangers in virtual dreams.\n" +
+            "I learned it from scrolling through social feeds,\n" +
+            "And seeing the world through a million different needs.\n" +
+            "I learned it from memes and GIFs and emojis,\n" +
+            "And seeing the world through a screen so cozy.\n" +
+            "I learned it from forums and Reddit threads,\n" +
+            "And getting lost in the vastness of online spreads.\n" +
+            "I learned it from gaming and online play,\n" +
+            "And experiencing life in a whole new way.\n" +
+            "\n" +
+            "So if you want to know what I know,\n" +
+            "Just open up your browser and let it go."
     }
 ];
 
