@@ -510,6 +510,32 @@ var poems = [
             "\n" +
             "to feel or not to feel, it's not what it seems, for in the arena, we find ourselves renewed,\n" +
             "in awe of the glory, of the cheers and screams, of the tales to be told, of our honor imbued."
+    },
+    {
+        "title": "Melting Hearts with Butter and Love",
+        "poem": "Butter on my toast,\n" +
+            "Your love melts my heart with joy,\n" +
+            "Pure delight, we're one."
+    },
+    {
+        "title:": "Transient Footprints in the Fading Summer",
+        "poem":"As the days grow shorter, the summer fades away,\n" +
+            "And memories of lost friends come out to play.\n" +
+            "\n" +
+            "Their faces once familiar, their laughter in my ear,\n" +
+            "Now echoes in the wind, a distant memory, so dear.\n" +
+            "\n" +
+            "The changing seasons remind us, life is in a constant flow,\n" +
+            "As people come and go, and friendships come and go.\n" +
+            "\n" +
+            "Though some may not last, their impact stays with me,\n" +
+            "A cherished lesson, a fond memory, a piece of my history.\n" +
+            "\n" +
+            "So as I watch the leaves fall and the world around me change,\n" +
+            "I'm grateful for the moments we shared, even if they were short and strange.\n" +
+            "\n" +
+            "For the fleeting beauty of friendship, the warmth of a summer day,\n" +
+            "Reminds me to cherish what I have, before it fades away."
     }
 ];
 
