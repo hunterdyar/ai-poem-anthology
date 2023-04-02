@@ -411,6 +411,12 @@ var poems = [
             "    And cherish each moment from above.\n" +
             "    For though our time on earth is brief,\n" +
             "    Our memories bring us sweet relief."
+    },
+    {
+        "title": "Daily Brew",
+        "poem": "Brewed to perfection,\n" +
+            "Rich aroma fills the air,\n" +
+            "Coffee, my lifeline."
     }
 ];
 
