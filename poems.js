@@ -438,6 +438,61 @@ var poems = [
             "yearning for connection and meaning?\n" +
             "Listen to the poetry of life itself,\n" +
             "and the symphony of the universe's breath."
+    },
+    {
+        "title":"The Necessity of Tears",
+        "poem":"It's a reminder of humanity,\n" +
+            "Of vulnerability and grace,\n" +
+            "A necessary catharsis,\n" +
+            "In this chaotic space.\n" +
+            "\n" +
+            "So let the tears fall,\n" +
+            "Let them water the ground,\n" +
+            "For in the act of crying,\n" +
+            "New growth is often found."
+    },
+    {
+        "title": "The Glimmering Abyss",
+        "poem":"Lo, in the dead of night, when all is still,\n" +
+            "A chill doth run along thy spine, a fear so real.\n" +
+            "For in the darkness there lurks a shadowy thing,\n" +
+            "A creature of the night, a monster with wings.\n" +
+            "\n" +
+            "It cometh in the form of thy deepest fear,\n" +
+            "A demon that doth feed on thy pain and tears.\n" +
+            "Its eyes doth glow red, its breath a putrid stench,\n" +
+            "A nightmare from the depths of hell doth wrench.\n" +
+            "\n" +
+            "Thou dost try to run, to escape its grasp,\n" +
+            "But it is always there, a looming gasp.\n" +
+            "It whispers in thy ear, a haunting voice,\n" +
+            "\"Thou canst not escape me, thou hast no choice.\"\n" +
+            "\n" +
+            "The horror is real, the fear within,\n" +
+            "A reminder of thy mortality and sin.\n" +
+            "Face thy fear, and let it not take thy life,\n" +
+            "For in the end, thy courage shall win the strife.\n" +
+            "\n" +
+            "But beware, for if thou art weak of heart,\n" +
+            "The shadow in the night shall tear thee apart."
+    },
+    {
+        "title": "Boise, ID",
+        "author": "ChatGPT, inspired by Jay Deshpande",
+        "poem": "In Boise, we find solace in a room embraced\n" +
+            "by mountains. A window frames a narrow view,\n" +
+            "a glimpse of blue sky. The sounds of nature grace\n" +
+            "our ears, a soothing melody that rings true.\n" +
+            "Last night, we gathered, hearts full of affection\n" +
+            "for those we hold dear, for those we love too much,\n" +
+            "for those who mean the world to us, our reflection.\n" +
+            "Through the walls, we hear the Boise River rush,\n" +
+            "wild and free, a force that can't be tamed.\n" +
+            "The worries fade slowly, as if in a dream,\n" +
+            "the melody of life softly humming, untamed.\n" +
+            "To feel or not to feel, it's not what it seems,\n" +
+            "for in Boise, we find ourselves whole and renewed,\n" +
+            "in awe of the sunset's hues, of life's promise imbued."
     }
 ];
 
