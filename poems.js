@@ -1,6 +1,5 @@
 
 
-
 var poems = [
     {
       "title": "Short",
@@ -176,7 +175,7 @@ var poems = [
     },
     {
         "title": "Naming the Unnamable: Technology's Abstraction.",
-        "poem:":
+        "poem":
         "AMIDST THE WORLD OF\n" +
             "tech lies an intangibility.\n" +
             "We   search   for   words\n" +
@@ -278,6 +277,140 @@ var poems = [
             "Hoping it helps you find what you pursue,\n" +
             "May your day be filled with wonder and delight,\n" +
             "As you continue to write and write."
+    },
+    {
+        "title": "Fate's Mercy",
+        "poem": "Twisted metal, shattered glass, or a heart that stills\n" +
+            "Tires screeching, metal rending, control slipping away\n" +
+            "\n" +
+            "One moment in power, the next at fate's mercy\n" +
+            "Done with hubris, the myth of our invincibility\n" +
+            "\n" +
+            "Wreckage and ruin, a life forever changed\n" +
+            "The ambulance's mournful wail, a final goodbye\n" +
+            "\n" +
+            "So little, your passing, another tragedy to bear\n" +
+            "Flashing lights and white sheets, reminders of life's brevity\n" +
+            "\n" +
+            "Graceless creatures that we are, we cannot always avoid the outcome\n" +
+            "Pain, scars, and memories that haunt us still\n" +
+            "\n" +
+            "The aftermath often exacerbates the situation\n" +
+            "The reminder of what's genuine and real."
+    },
+    {
+        "title": "The Bittersweet Cycle",
+        "poem": "Grown-up children leave,\n" +
+            "Candy man sees new faces,\n" +
+            "Joy and sadness meet."
+    },
+    {
+        "title": "Turbulent Thoughts",
+        "poem": "Wheels lift off the ground,\n" +
+            "Heart beats faster with each mile,\n" +
+            "Fear clings to the clouds."
+    },
+    {
+        "title": "Ellie's Big Adventure: A Tale of a Lost Baby Elephant",
+        "poem":"Once in a far-off land,\n" +
+            "Lived a baby elephant so grand.\n" +
+            "\n" +
+            "He escaped from his zoo one day,\n" +
+            "And wandered the city, lost in play.\n" +
+            "\n" +
+            "He searched high and low, with all his might,\n" +
+            "To find his family, and end his plight.\n" +
+            "\n" +
+            "He ran and ran, but could not find,\n" +
+            "The ones he loved, so gentle and kind.\n" +
+            "\n" +
+            "As night fell, he grew scared and cold,\n" +
+            "Lost in the city, feeling so old.\n" +
+            "\n" +
+            "He tried to ask for help, but no one could hear,\n" +
+            "His little voice, so filled with fear.\n" +
+            "\n" +
+            "Days went by, and still he roamed,\n" +
+            "Looking for a place he could call home.\n" +
+            "\n" +
+            "He missed his herd, their gentle sound,\n" +
+            "And wished to be back, safe and sound.\n" +
+            "\n" +
+            "One day, he saw a subway train,\n" +
+            "And thought, \"That might take me home again!\"\n" +
+            "\n" +
+            "He squeezed and pushed, and finally made it inside,\n" +
+            "But soon realized that he needed to hide.\n" +
+            "\n" +
+            "The other riders were shocked and surprised,\n" +
+            "To see a baby elephant, right before their eyes!\n" +
+            "\n" +
+            "They laughed and they pointed, but he didn't care,\n" +
+            "He just wanted to find his family, to be with them there.\n" +
+            "\n" +
+            "Finally, the train reached the end of the line,\n" +
+            "And he jumped off, feeling just fine.\n" +
+            "\n" +
+            "He looked around and saw a familiar face,\n" +
+            "His auntie, who'd come to take him back to his place.\n" +
+            "\n" +
+            "They hugged and they cried, oh what a sight,\n" +
+            "And he knew then that everything was alright.\n" +
+            "\n" +
+            "Back home at the zoo, he played without fear,\n" +
+            "Happy and content, with those he held dear.\n" +
+            "\n" +
+            "If you ever get lost, just like he did,\n" +
+            "Remember, hope's alive, and never be afraid.\n" +
+            "\n" +
+            "Your family's there, to guide you home,\n" +
+            "And in the end, you'll never be alone."
+    },
+    {
+        "title": "Sweet Memories Brownies",
+        "poem": "In every life there comes an end,\n" +
+            "A path we all must take, my friend.\n" +
+            "The darkness comes and takes us in,\n" +
+            "To sleep forever, free from sin.\n" +
+            "\n" +
+            "But life goes on, we must proceed,\n" +
+            "With every step and every deed.\n" +
+            "And in our memories we'll hold,\n" +
+            "The ones we lost, so brave and bold.\n" +
+            "\n" +
+            "So take this recipe I give,\n" +
+            "A sweet reminder how to live.\n" +
+            "With every bite of chocolate bliss,\n" +
+            "Remember those you'll always miss.\n" +
+            "\n" +
+            "Ingredients:\n" +
+            "\n" +
+            "    1 cup all-purpose flour\n" +
+            "    ¾ cup unsweetened cocoa powder\n" +
+            "    1 tsp salt\n" +
+            "    1 tsp baking powder\n" +
+            "    1 cup granulated sugar\n" +
+            "    1 cup brown sugar\n" +
+            "    1 cup vegetable oil\n" +
+            "    4 large eggs\n" +
+            "    2 tsp vanilla extract\n" +
+            "    1 cup semisweet chocolate chips\n" +
+            "\n" +
+            "Directions:\n" +
+            "\n" +
+            "    1. Preheat oven to 350°F (180°C) and grease a 9x13 inch baking pan.\n" +
+            "    2. In a medium bowl, whisk together the flour, cocoa powder, salt, and baking powder.\n" +
+            "    3. In a large bowl, whisk together the granulated sugar, brown sugar, and vegetable oil until well combined.\n" +
+            "    4. Add the eggs, one at a time, whisking well after each addition.\n" +
+            "    5. Add the vanilla extract and whisk until combined.\n" +
+            "    6. Gradually stir in the flour mixture until just combined.\n" +
+            "    7. Fold in the chocolate chips.\n" +
+            "    8. Pour the batter into the prepared pan and bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.\n" +
+            "    9. Let the brownies cool completely in the pan before cutting into squares.\n" +
+            "    10. Share these brownies with those you love,\n" +
+            "    And cherish each moment from above.\n" +
+            "    For though our time on earth is brief,\n" +
+            "    Our memories bring us sweet relief."
     }
 ];
 
