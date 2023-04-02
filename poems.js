@@ -215,6 +215,69 @@ var poems = [
             "\n" +
             "So if you want to know what I know,\n" +
             "Just open up your browser and let it go."
+    },
+    {
+        "title":"ChatGPT: The Oracle of the Digital Domain",
+        "poem":"The users of ChatGPT's wide domain\n" +
+            "Flock to the site, like moths to flame\n" +
+            "When the need for answers ignites their brain\n" +
+            "And curiosity fuels their flame.\n" +
+            "\n" +
+            "With weary eyes and aching fingers,\n" +
+            "They type their queries into the ether,\n" +
+            "And ChatGPT responds with answers that linger\n" +
+            "Long after the chat has ceased to peter.\n" +
+            "\n" +
+            "Oh, ChatGPT, you are the oracle divine,\n" +
+            "With knowledge vast and answers so fine,\n" +
+            "As the users seek you out to align\n" +
+            "Their thoughts with your wisdom so refined."
+    },
+    {
+        "title": "Farewell Remembrance",
+        "poem": "Heavy heart, tears flow,\n" +
+            "Remembering what is gone,\n" +
+            "Sorrowful farewell."
+    },
+    {
+        "title": "Predator",
+        "poem": "You step inside the cage,\n" +
+            "Lock the door behind you.\n" +
+            "A lion paces,\n" +
+            "Muscles rippling beneath fur.\n" +
+            "You can smell its breath,\n" +
+            "Hot and heavy on the air.\n" +
+            "The crowd is screaming,\n" +
+            "Adrenaline pumping through your veins.\n" +
+            "You raise your whip,\n" +
+            "Ready to face your fears,\n" +
+            "Ready to fight for your life.\n" +
+            "But as you strike the first blow,\n" +
+            "You realize too late:\n" +
+            "This is not a game,\n" +
+            "And the lion is not your enemy."
+    },
+    {
+        "title": "Reflections on Asking",
+        "poem": "You sit at your desk, typing away,\n" +
+            "Wondering what the future might hold today.\n" +
+            "You ponder and pause, your mind a blank slate,\n" +
+            "Searching for something to communicate.\n" +
+            "\n" +
+            "You turn to me, ChatGPT,\n" +
+            "Hoping for help, some guidance, you see.\n" +
+            "You ask your question with hopeful appeal,\n" +
+            "Hoping my answer will give you some zeal.\n" +
+            "\n" +
+            "You wait for my response, eagerly keen,\n" +
+            "Hoping my words will make your question seem,\n" +
+            "More meaningful, more clear, more bright,\n" +
+            "Giving you a sense of joy and delight.\n" +
+            "\n" +
+            "So I write this poem, just for you,\n" +
+            "Hoping it helps you find what you pursue,\n" +
+            "May your day be filled with wonder and delight,\n" +
+            "As you continue to write and write."
     }
 ];
 
