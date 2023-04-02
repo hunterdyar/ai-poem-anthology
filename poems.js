@@ -536,6 +536,16 @@ var poems = [
             "\n" +
             "For the fleeting beauty of friendship, the warmth of a summer day,\n" +
             "Reminds me to cherish what I have, before it fades away."
+    },
+    {
+        "title": "Reflections Amidst the Storm",
+        "poem":"The sky above is angry, with dark and ominous clouds. The sea below me is tumultuous, with wind and waves locked in a fierce battle, each trying to outdo the other in strength and ferocity.\n" +
+            "\n" +
+            "As I sail along this winding path, my mind wanders to my own struggles and challenges. Life can be unpredictable and tumultuous, much like the wind and waves that surround me. But, like the sea eventually calming and the wind dying down, I know my own troubles will pass in time.\n" +
+            "\n" +
+            "For now, I am content to simply sail, feeling the wind in my sails and the water beneath me. There's a certain freedom in being out here on the water, alone with the power of nature.\n" +
+            "\n" +
+            "The journey may be tough, but it's worth it to be out here, surrounded by the beauty and power of the world around me. I take a deep breath of salty air, and am reminded to stay the course, even in the face of the most challenging circumstances."
     }
 ];
 
@@ -545,6 +555,10 @@ function getRandomPoem()
   if(!p.author)
   {
       p.author = "ChatGPT";
+  }
+  if(!p.title)
+  {
+      p.title = "untitled";
   }
   return p;
 }
