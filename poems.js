@@ -546,6 +546,54 @@ var poems = [
             "For now, I am content to simply sail, feeling the wind in my sails and the water beneath me. There's a certain freedom in being out here on the water, alone with the power of nature.\n" +
             "\n" +
             "The journey may be tough, but it's worth it to be out here, surrounded by the beauty and power of the world around me. I take a deep breath of salty air, and am reminded to stay the course, even in the face of the most challenging circumstances."
+    },
+    {
+        "title":"Asteroid Solitude",
+        "poem":"In the endless void of space,\n" +
+            "An asteroid roams,\n" +
+            "Silent,\n" +
+            "Majestic,\n" +
+            "Its surface rough and cold.\n" +
+            "\n" +
+            "Tohu Bohu,\n" +
+            "Chaos reigns,\n" +
+            "As it hurtles through the darkness,\n" +
+            "A dance of destruction and creation.\n" +
+            "\n" +
+            "Alone in its trajectory,\n" +
+            "It twists and turns,\n" +
+            "A solitary wanderer,\n" +
+            "Lost in the vastness of the universe.\n" +
+            "\n" +
+            "And yet,\n" +
+            "In its solitude,\n" +
+            "It remains a thing of beauty,\n" +
+            "As captivating as the stars,\n" +
+            "As wondrous as the mysteries of space.\n" +
+            "\n" +
+            "For it is a messenger,\n" +
+            "A harbinger of the unknown,\n" +
+            "A symbol of the endless possibilities,\n" +
+            "That lie beyond our earthly domain.\n" +
+            "\n" +
+            "It sits, a speck in the endless expanse,\n" +
+            "A reminder of the infinite,\n" +
+            "An enigma waiting to be solved."
+    },
+    {
+        "title":"Letting Go",
+        "poem":"How do I tell my mind to forget that person's touch?\n" +
+            "How do I tell my feet to walk away from the memories?\n" +
+            "They are just feet.\n" +
+            "They will carry me where I need to go.\n" +
+            "\n" +
+            "How do I tell my lips to forget the taste of their kiss?\n" +
+            "They are just lips.\n" +
+            "They will find new things to say.\n" +
+            "\n" +
+            "How do I tell my back to stand up straight?\n" +
+            "They will not hold me up.\n" +
+            "\n"
     }
 ];
 
